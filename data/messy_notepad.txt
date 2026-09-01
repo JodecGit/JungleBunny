@@ -1,0 +1,4 @@
+date n1 n2 n3 n4 n5 n6 bonus
+29/08/2026 08-10-29-30-42-46 bonus 5
+this line is garbage
+2026-06-24 11 13 18 24 36 48 + 2
